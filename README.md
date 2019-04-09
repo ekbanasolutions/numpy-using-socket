@@ -49,4 +49,6 @@ while True:
 
 In the same way, you should be able to transfer any Numpy Array. There is an example files in the videostream directory, where the above example is shown. If you simply want to run and see it, then you can first run `python3 receiver.py` and then `python3 sender.py` and see it working. 
 
-Thanks to [@bbkchdhry](https://github.com/bbkchdhry)
+## Contributors
+[Bibek](https://github.com/bbkchdhry)
+[Vaghawan](https://github.com/vaghawan)
